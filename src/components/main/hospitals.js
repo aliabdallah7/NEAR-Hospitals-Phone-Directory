@@ -9,7 +9,7 @@ function Hospital(props) {
   const [wallet, setWallet] = useState();
   const [accountId, setAccountId] = useState("");
   const [loading, setLoading] = useState(true);
-  const [companiesData, setHospitalsData] = useState([]);
+  const [hospitalsData, setHospitalsData] = useState([]);
 
   useEffect(() => {
     (async () => {
@@ -37,7 +37,7 @@ function Hospital(props) {
         console.log(props.hospitalName);
         if (props.hospitalName) {
           jsonData.forEach((hospital) => {
-            if (company.name === props.hospitalName) {
+            if (hospital.name === props.hospitalName) {
               setHospitalsData([hospital]);
               setLoading(false);
             }
@@ -64,4 +64,4 @@ function Hospital(props) {
   );
 }
 
-export default hospitals;
+export default Hospital;

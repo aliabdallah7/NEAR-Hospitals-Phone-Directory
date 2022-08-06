@@ -25,4 +25,4 @@ function HospitalsList(props) {
   );
 }
 
-export default CompaniesList;
+export default HospitalsList;
