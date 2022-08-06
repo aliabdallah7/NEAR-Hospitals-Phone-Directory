@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NEAR-Hospitals-Phone_Directory/static/css/main.ba23f33d.chunk.css",
+    "main.js": "/NEAR-Hospitals-Phone_Directory/static/js/main.e29103f5.chunk.js",
+    "main.js.map": "/NEAR-Hospitals-Phone_Directory/static/js/main.e29103f5.chunk.js.map",
+    "runtime-main.js": "/NEAR-Hospitals-Phone_Directory/static/js/runtime-main.f0f932f5.js",
+    "runtime-main.js.map": "/NEAR-Hospitals-Phone_Directory/static/js/runtime-main.f0f932f5.js.map",
+    "static/css/2.cbedb215.chunk.css": "/NEAR-Hospitals-Phone_Directory/static/css/2.cbedb215.chunk.css",
+    "static/js/2.6a6b3d00.chunk.js": "/NEAR-Hospitals-Phone_Directory/static/js/2.6a6b3d00.chunk.js",
+    "static/js/2.6a6b3d00.chunk.js.map": "/NEAR-Hospitals-Phone_Directory/static/js/2.6a6b3d00.chunk.js.map",
+    "static/js/3.d5a5fc31.chunk.js": "/NEAR-Hospitals-Phone_Directory/static/js/3.d5a5fc31.chunk.js",
+    "static/js/3.d5a5fc31.chunk.js.map": "/NEAR-Hospitals-Phone_Directory/static/js/3.d5a5fc31.chunk.js.map",
+    "index.html": "/NEAR-Hospitals-Phone_Directory/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "/NEAR-Hospitals-Phone_Directory/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.ba23f33d.chunk.css.map": "/NEAR-Hospitals-Phone_Directory/static/css/main.ba23f33d.chunk.css.map",
+    "static/js/2.6a6b3d00.chunk.js.LICENSE.txt": "/NEAR-Hospitals-Phone_Directory/static/js/2.6a6b3d00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0f932f5.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.6a6b3d00.chunk.js",
+    "static/css/main.ba23f33d.chunk.css",
+    "static/js/main.e29103f5.chunk.js"
+  ]
+}
